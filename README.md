@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jeypranav Bala
+# 👋 Hello, I'm Jey pranav Bala
 
 Electronics & Embedded Systems Engineer focused on microcontrollers, digital systems, and hardware–software co-design.  
 Interested in semiconductor, FPGA, and deeply embedded systems.
