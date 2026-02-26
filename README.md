@@ -31,7 +31,7 @@ Embedded firmware, digital electronics, and sensor-based systems with strong har
 | Communication | I²C, SPI, UART, CAN |
 | Firmware | Bare-metal drivers, Peripheral interfacing |
 | PCB & Hardware | Altium Designer, Schematic & PCB design |
-| Tools & Debug | Oscilloscope, Logic Analyzer, JTAG/SWD |
+| Tools & Debug | Oscilloscope, Multimeter |
 | Simulation | LTspice, Proteus, ModelSim |
 | FPGA | Vivado (intro) |
 | OS | Linux, Windows |
